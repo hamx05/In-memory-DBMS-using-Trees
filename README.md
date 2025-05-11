@@ -27,7 +27,7 @@ Each tree acts as a separate table supporting CRUD operations.
 
 ---
 
-## To Compile
+## 🚀 How to Run
 ```bash
 g++ inmemory_dbms.cpp bst.cpp avl.cpp btree.cpp -o inmemory_dbms
 ```
